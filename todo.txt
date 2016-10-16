@@ -1,0 +1,7 @@
+Code
+
+- camera collision
+- cam verhalten aus playercontroller in extra script
+- double click speed playercontroller -> settings
+- mouse sensitivity controller -> settings
+Graphic

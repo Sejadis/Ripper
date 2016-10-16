@@ -1,0 +1,38 @@
+28.09.16
+	
+	12.15 grundlegendes Setup
+	12.30 basic UI mit Health + Stamina Balken
+
+03.10.16
+	
+	11.50 grundlegende Menüs
+	17.30 Gerüst für Loadingscreens
+
+04.10.16
+	
+	18.30 nicht funktionierenden Zoom implementiert
+
+05.10.16
+
+	10.00 Zoom verbessert - noch nicht komplett funktionsfähig
+	12.45 fixed Zoom
+	14.00 Camera Rotation um den Char implementiert -> Bugs vorhanden (Input gemischt von Camera und Char Rotation)
+
+06.10.16
+
+	12.30 camera handling verbessert
+		todo.txt hinzugefügt
+	14.45 doppelklick "Camera"-Button setzt cam rotation zurück
+
+07.10.16
+
+	12.30 probleme mit cam behoben
+		input system umgeschrieben um immer sowohl main als auch alt. key abzufragen
+	15.15 probleme mit pause menu behoben
+		probleme mit settings behoben
+
+08.10.16
+
+	11.15 anfang auf event system umzustellen
+	13.30 settings per event 
+		resolution enum hinzugefügt + erweiterungsmethode
